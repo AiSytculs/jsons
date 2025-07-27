@@ -15,5 +15,13 @@
     "role": "teacher",
     "subject": "Математика",
     "experience": "12 лет"
+  },
+  {
+    "login": "superman",
+    "password": "88888",
+    "name": "SUPER-ADMIN",
+    "role": "super-admin",
+    "subject": "Admin+",
+    "experience": "???????"
   }
 ]
