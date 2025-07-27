@@ -20,7 +20,7 @@
     "login": "superman",
     "password": "88888",
     "name": "SUPER-ADMIN",
-    "role": "super-admin",
+    "role": "super_admin",
     "subject": "Admin+",
     "experience": "???????"
   }
